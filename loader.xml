@@ -1,0 +1,5 @@
+<krpano>
+  <image><sphere url="//cdn.jsdelivr.net/gh/pano-hub-01/p@main/pano.jpg" multires="512,1024"/></image>
+  <hotspot name="link" ath="0" atv="0" url="//cdn.jsdelivr.net/gh/pano-hub-01/p@main/dot.png"
+           onclick="openurl('https://example.com','_blank');" html="your anchor"/>
+</krpano>
