@@ -1,0 +1,22 @@
+{
+  "default": {
+    "firstScene": "s1",
+    "sceneFadeDuration": 1000,
+    "title": "checking upload",
+    "author": "checking upload"
+  },
+  "scenes": {
+    "s1": {
+      "type": "equirectangular",
+      "panorama": "//cdn.jsdelivr.net/gh/pano-hub-01/p@main/pano.jpg",
+      "hotSpots": [
+        {
+          "pitch": 0,
+          "yaw": 0,
+          "type": "info",
+          "text": "<a href='https://example.com' target='_blank' rel='noopener'>your anchor</a>"
+        }
+      ]
+    }
+  }
+}
